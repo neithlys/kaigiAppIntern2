@@ -1,0 +1,58 @@
+{
+    "name": "faas",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "react-native start",
+        "test": "jest"
+    },
+    "dependencies": {
+        "@react-native-community/async-storage": "^1.6.1",
+        "accordion-collapse-react-native": "^0.1.11",
+        "moment-timezone": "^0.5.26",
+        "native-base": "^2.13.7",
+        "react": "16.8.6",
+        "react-native": "0.60.5",
+        "react-native-action-button": "^2.8.5",
+        "react-native-calendars": "^1.212.0",
+        "react-native-chart-kit": "^3.3.1",
+        "react-native-color-picker": "^0.4.1",
+        "react-native-elements": "^1.2.0",
+        "react-native-floating-labels": "^1.1.9",
+        "react-native-gesture-handler": "^1.4.1",
+        "react-native-i18n": "^2.0.15",
+        "react-native-image-slider-box": "^1.0.5",
+        "react-native-modal": "^11.3.1",
+        "react-native-modal-datetime-picker": "^7.5.0",
+        "react-native-reanimated": "^1.2.0",
+        "react-native-responsive-fontsize": "^0.2.1",
+        "react-native-responsive-screen": "^1.2.2",
+        "react-native-screens": "^2.0.0-alpha.3",
+        "react-native-settings-page": "^2.0.6",
+        "react-native-snackbar": "^2.0.2",
+        "react-native-snap-carousel": "^3.8.0",
+        "react-native-swipeout": "^2.3.6",
+        "react-native-vector-icons": "^6.6.0",
+        "react-navigation": "^4.0.1",
+        "react-navigation-stack": "^1.5.4",
+        "react-navigation-tabs": "^2.4.1",
+        "react-redux": "^7.1.1",
+        "redux": "^4.0.4"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.5.0",
+        "@babel/runtime": "^7.5.0",
+        "@react-native-community/eslint-config": "^0.0.3",
+        "babel-jest": "^24.1.0",
+        "eslint-config-airbnb": "^18.0.1",
+        "eslint-plugin-import": "^2.18.2",
+        "eslint-plugin-jsx-a11y": "^6.2.3",
+        "eslint-plugin-react": "^7.14.3",
+        "jest": "^24.1.0",
+        "metro-react-native-babel-preset": "0.54.1",
+        "react-test-renderer": "16.8.6"
+    },
+    "jest": {
+        "preset": "react-native"
+    }
+}

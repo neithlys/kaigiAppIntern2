@@ -1,0 +1,40 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "all",
+    "editor.detectIndentation": true,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "eslint.workingDirectories": ["./client", "./app"],
+    "eslint.autoFixOnSave": true,
+
+    "tslint.jsEnable": false,
+
+    "javascript.validate.enable": false,
+
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.fontSize": 17
+}

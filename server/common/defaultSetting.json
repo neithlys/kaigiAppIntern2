@@ -1,0 +1,21 @@
+{
+    "background": "0_0_background.jpg",
+    "renew": 3,
+    "event": [],
+    "facility": {
+        "free": {
+            "color": "#1ba1e2"
+        },
+        "waiting": {
+            "color": "#008a00",
+            "timeBeforeEvent": 15
+        },
+        "busy": {
+            "color": "#ff0000"
+        },
+        "entering": {
+            "color": "#fa6800",
+            "timeAfterEvent": 15
+        }
+    }
+}
