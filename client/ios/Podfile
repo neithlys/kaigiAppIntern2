@@ -27,20 +27,22 @@ target 'faas' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'faasTests' do
-    inherit! :search_paths
+  pod 'RNGestureHandler', :path => '../node_modules/react-native-gesture-handler'
+
+  # target 'faasTests' do
+    # inherit! :search_paths
     # Pods for testing
-  end
+  # end
 
   use_native_modules!
 end
 
-target 'faas-tvOS' do
+# target 'faas-tvOS' do
   # Pods for faas-tvOS
 
-  target 'faas-tvOSTests' do
-    inherit! :search_paths
+  # target 'faas-tvOSTests' do
+    # inherit! :search_paths
     # Pods for testing
-  end
+  # end
 
-end
+# end

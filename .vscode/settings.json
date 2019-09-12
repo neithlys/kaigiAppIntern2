@@ -1,7 +1,7 @@
 {
     "editor.minimap.enabled": false,
-    "editor.fontFamily": "Source Code Pro",
-    "editor.fontSize": 16,
+    "editor.fontFamily": "Cousine",
+    "editor.fontSize": 14,
     "editor.formatOnSave": true,
     "editor.tabSize": 4,
     "editor.renderWhitespace": "all",
