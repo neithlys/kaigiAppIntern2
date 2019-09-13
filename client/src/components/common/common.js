@@ -165,42 +165,30 @@ const longProfileSetting = {
 
 const imagesManualSchedule = [
     `${manualScheduleUrl}schedule1.png`,
-    `${manualScheduleUrl}schedule1.png`,
-    `${manualScheduleUrl}schedule1.png`,
-    `${manualScheduleUrl}schedule1.png`,
-    `${manualScheduleUrl}schedule1.png`,
-    `${manualScheduleUrl}schedule1.png`,
-    `${manualScheduleUrl}schedule1.png`,
-    `${manualScheduleUrl}schedule1.png`,
-    `${manualScheduleUrl}schedule1.png`,
-    `${manualScheduleUrl}schedule1.png`,
+    `${manualScheduleUrl}schedule2.png`,
+    `${manualScheduleUrl}schedule3.png`,
+    `${manualScheduleUrl}schedule4.png`,
+    `${manualScheduleUrl}schedule5.png`,
+    `${manualScheduleUrl}schedule6.png`,
+    `${manualScheduleUrl}schedule7.png`,
+    `${manualScheduleUrl}schedule8.png`,
+    `${manualScheduleUrl}schedule9.png`,
+    `${manualScheduleUrl}schedule10.png`,
+    `${manualScheduleUrl}schedule11.png`,
+    `${manualScheduleUrl}schedule12.png`,
 ]
 
 const imagesManualCalendar = [
     `${manualCalendarUrl}calendar1.png`,
-    `${manualCalendarUrl}calendar1.png`,
-    `${manualCalendarUrl}calendar1.png`,
-    `${manualCalendarUrl}calendar1.png`,
-    `${manualCalendarUrl}calendar1.png`,
-    `${manualCalendarUrl}calendar1.png`,
-    `${manualCalendarUrl}calendar1.png`,
-    `${manualCalendarUrl}calendar1.png`,
-    `${manualCalendarUrl}calendar1.png`,
-    `${manualCalendarUrl}calendar1.png`,
-]
+    `${manualCalendarUrl}calendar2.png`,
+    `${manualCalendarUrl}calendar3.png`,
+    `${manualCalendarUrl}calendar4.png`,
+    `${manualCalendarUrl}calendar5.png`,
 
 const imagesManualSetting = [
     `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
-    `${manualSettingUrl}setting1.png`,
+    `${manualSettingUrl}setting2.png`,
+    `${manualSettingUrl}setting3.png`,
 ]
 
 const removeDuplicates = (myArr, prop) => {
